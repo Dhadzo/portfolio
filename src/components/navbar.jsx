@@ -112,7 +112,7 @@ class Navbar extends React.Component {
           >
             <ul className="navbar-nav">
             <li className="nav-item">
-                <a className="nav-link js-scroll active" href="https://drive.google.com/file/d/14Hd5zfc9V_A7zDfxzqL5jWfDM89gJIzn/view?usp=sharing" rel="noopener noreferrer" target="_blank">
+                <a className="nav-link js-scroll active" rel="noopener noreferrer" target="_blank" href="https://drive.google.com/file/d/1BT3B8U_9A4YyQlYrb0ioqXqZc0_8bcBu/view?usp=sharing">
                   Resume
                 </a>
               </li>
